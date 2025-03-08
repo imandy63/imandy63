@@ -11,4 +11,7 @@ I'm Kong Hoa Hung, a backend engineer passionate about building scalable, effici
 ![](https://github-readme-stats.vercel.app/api?username=imandy63&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imandy63&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📊 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/HM531fd30y?theme=dark&font=Arial)](https://leetcode.com/u/HM531fd30y/)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
