@@ -8,12 +8,6 @@ Currently, I'm seeking opportunities as a **QA Automation Engineer**, **Software
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kong-hoa-hung-2167b02b5)
-
----
-
 ## 💻 Technical Skills
 
 ### Testing
@@ -44,7 +38,6 @@ Currently, I'm seeking opportunities as a **QA Automation Engineer**, **Software
 - Node.js
 - Express.js
 - FastAPI
-- ASP.NET
 
 ### Database & Tools
 - MySQL
@@ -53,15 +46,6 @@ Currently, I'm seeking opportunities as a **QA Automation Engineer**, **Software
 - Docker
 - Git
 - GitHub
-
----
-
-## 📂 Featured Projects
-
-- 🎫 Event Ticket System
-- ✅ API Automation Testing (RestAssured + JUnit5 + Allure + K6)
-- 🧪 Manual Testing Project (Test Cases & Bug Reports)
-- 🤖 Selenium UI Automation Demo
 
 ---
 
