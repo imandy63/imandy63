@@ -67,9 +67,7 @@ Currently, I'm seeking opportunities as a **QA Automation Engineer**, **Software
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=imandy63&theme=dark&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imandy63&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imandy63&layout=compact&theme=github_dark)
 
 ---
 
